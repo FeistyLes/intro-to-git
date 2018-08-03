@@ -7,3 +7,8 @@
 # Git Repository
 -Where all our snapshots are stored
 
+# Adding mulitple files of a certain type
+
+# Adding all files in directory (including hidden)
+
+# Ignoring files
